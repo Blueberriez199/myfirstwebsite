@@ -1,0 +1,43 @@
+.h1-index {
+color: white;
+background-color:#333333;
+font-size: xx-large;
+font-family: sans-serif;
+text-align: center;
+}
+
+.h1-abt{
+
+}
+
+.index-img{
+    
+}
+
+.pros-cons {
+    background: red;
+    border-width: 25px;
+    border-color: darkblue;
+    border: 25px;
+}
+
+.body{
+
+}
+
+.abt-link{
+    background-color: red;
+    font-size: x-large;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.index-link{
+    font-size: x-large;
+}
+
+.over-ear{
+    padding:25px;
+}
