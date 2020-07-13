@@ -7,11 +7,22 @@ text-align: center;
 }
 
 .h1-abt{
-
+background-color: red;
+padding-top: 50px;
+padding-bottom: 50px;
+color: white;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .index-img{
-    
+ position: sticky;
+ margin-left: 100px;
+  
+}
+
+.pros-img{
+   position: relative;
+
 }
 
 .pros-cons {
@@ -32,12 +43,36 @@ text-align: center;
     margin-bottom: 25px;
     font-family: sans-serif;
     text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .index-link{
     font-size: x-large;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.beats-types{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .over-ear{
     padding:25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.on-ear{
+    padding: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.abt-img{
+  margin: 25px;
+  max-width: 250px; 
+}
+
+.abt-text{
+    max-width: 500px;
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
